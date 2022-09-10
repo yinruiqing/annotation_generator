@@ -1,0 +1,2 @@
+# Annotation generator for speaker diarizaiton task
+The generator can generate speaker annotation based on a given annotation template (rttm). It can be used for Target speaker vad or end-to-end speaker diarization.
